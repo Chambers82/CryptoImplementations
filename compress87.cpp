@@ -2,7 +2,7 @@
 // Date: 10/19/2017  Autumn of Code
 // Filename: compress87.cpp
 // Compile with:  g++ -std=c++11 -Wall -Wextra -pedantic-errors -o compress87 compress87.cpp
-// Description:  Improved Subsitition Cipher Implementation in C++
+// Description:  Improved file compression/decompression implementation in C++
 
 #include <iostream.h>
 #include <fstream.h>
